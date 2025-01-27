@@ -1,0 +1,50 @@
+body {
+    /* llamar al body del html */
+    background-color: rgb(42, 202, 189);
+    color: azure;
+
+}
+
+header {
+    background-color: rgb(60, 216, 22);
+    margin: 50px
+}
+
+footer {
+    background-color: rgb(82, 155, 63);
+    margin: 50px
+}
+
+h1 {
+    font-size: 10rem;
+    
+}
+
+h6 {
+    font-size: 2rem;
+}
+
+p {
+    text-align: centers;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: crimson;
+}
+.color-verde{
+    color: chartreuse;
+
+}
+.color-azul{
+    color:rgb(42, 202, 189); ;
+}
+.color-azules{
+color:aquamarine;
+}
+
+#XD{
+    font-size:  2rem;
+    color: lightcoral;
+}
+#Duro{
+    font-size: 15rem;
+    color: chartreuse;
+}

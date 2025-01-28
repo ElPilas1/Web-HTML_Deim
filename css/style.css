@@ -8,10 +8,11 @@ body {
 header {
     background-color: rgb(60, 216, 22);
     margin: 50px
+
 }
 
 footer {
-    background-color: rgb(82, 155, 63);
+    background-color: rgba(48, 71, 42, 0.596);
     margin: 50px
 }
 
@@ -30,11 +31,11 @@ p {
     color: crimson;
 }
 .color-verde{
-    color: chartreuse;
+    color: rgb(38, 97, 46);
 
 }
 .color-azul{
-    color:rgb(42, 202, 189); ;
+    color:rgb(rgb(38, 97, 46)); ;
 }
 .color-azules{
 color:aquamarine;
@@ -42,9 +43,13 @@ color:aquamarine;
 
 #XD{
     font-size:  2rem;
-    color: lightcoral;
+    color: rgb(38, 97, 46);
 }
 #Duro{
-    font-size: 15rem;
-    color: chartreuse;
+    font-size: 7rem;
+    color: rgb(38, 97, 46);
+}
+.Encabezado{
+    text-align: center;
+    font-size: 7rem;
 }

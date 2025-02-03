@@ -2,16 +2,28 @@ body {
     /* llamar al body del html */
     background-color: rgb(38, 97, 46);
     color: azure;
-
+    background-image: repeating-conic-gradient(
+        in lab,
+        burlywood,
+        blueviolet 120deg
+      );
 }
 
 header {
-    background-color: rgb(46, 117, 55);
+    background-image: repeating-conic-gradient(
+        in lab,
+        burlywood,
+        blueviolet 120deg
+      );
     margin: 50px
 }
 
 footer {
-    background-color: rgba(48, 71, 42, 0.596);
+    background-image: repeating-linear-gradient(
+        in oklch,
+        burlywood,
+        blueviolet 120deg
+      );
     margin: 50px
 }
 

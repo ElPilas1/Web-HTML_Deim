@@ -94,3 +94,9 @@ p {
     height: 500px;
     
 }
+.error{
+    background-color: red;
+}
+.all-good{
+    background-color: chartreuse;
+}
